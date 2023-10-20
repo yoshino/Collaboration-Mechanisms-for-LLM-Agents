@@ -1,5 +1,5 @@
 # Collaboration Mechanisms for LLM Agents
-[Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View](https://arxiv.org/abs/2310.02124)demonstrates that agents utilizing LLM (Large Language Models) can enhance their accuracy in addressing problems through cooperation. In this paper, cooperation is divided into two patterns, namely "debate" and "reflection," and it conducts examinations for a total of eight patterns, including sequences like "debate -> reflect -> debate."
+[Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View](https://arxiv.org/abs/2310.02124) demonstrates that agents utilizing LLM (Large Language Models) can enhance their accuracy in addressing problems through cooperation. In this paper, cooperation is divided into two patterns, namely "debate" and "reflection," and it conducts examinations for a total of eight patterns, including sequences like "debate -> reflect -> debate."
 
 This repository experiment:
 - employed the model, llama2 (GPT-3.5-turbo was also used for comparison).
